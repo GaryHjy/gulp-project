@@ -1,0 +1,13 @@
+#Filter folder
+node_modules/
+doc/
+
+#kill file
+package-lock.json
+
+*.zip
+*.rar
+*.7z
+*.exe
+*.wmv
+*.mp4
